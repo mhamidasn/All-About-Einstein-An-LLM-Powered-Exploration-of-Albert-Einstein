@@ -3,7 +3,7 @@
 </div>
 
 <div style="text-align:center;">
-    <image src="docs/demo_vid.gif" controls title="Title"></image>
+    <image src="docs/demo_gif.gif" controls title="Title"></image>
 </div>
 
 ## Table of Contents
