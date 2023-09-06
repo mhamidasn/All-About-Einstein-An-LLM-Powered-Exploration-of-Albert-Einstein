@@ -14,7 +14,7 @@
 - [Know more about me!](#know-more-about-me)
 
 # About the Project
-All About Einstein is an innovative question-answering application focused on Albert Einstein. Utilizing the knowledge base extracted from the [Britannica Albert Einstein encyclopedia](https://www.britannica.com/biography/Albert-Einstein), this project employs [instructor text embeddings](https://huggingface.co/hkunlp/instructor-xl) and the [FLAN-T5 LLM model](https://huggingface.co/google/flan-t5-xxl) from Hugging Face. The user-friendly interface, designed using [Streamlit](https://streamlit.io/), and the application's pipeline is constructed using the [Langchain](https://python.langchain.com/docs/get_started/introduction.html) framework, enabling users to pose a wide range of questions related to Albert Einstein's life and work.
+All About Einstein is a question-answering application focused on Albert Einstein. Utilizing the knowledge base extracted from the [Britannica Albert Einstein encyclopedia](https://www.britannica.com/biography/Albert-Einstein), this project employs [instructor text embeddings](https://huggingface.co/hkunlp/instructor-xl) and the [FLAN-T5 LLM model](https://huggingface.co/google/flan-t5-xxl) from Hugging Face. The user-friendly interface, designed using [Streamlit](https://streamlit.io/), and the application's pipeline is constructed using the [Langchain](https://python.langchain.com/docs/get_started/introduction.html) framework, enabling users to pose a wide range of questions related to Albert Einstein's life and work.
 
 <div style="text-align:center;">
     <image src="docs/how it work.jpg" controls title="How it works"></image>
