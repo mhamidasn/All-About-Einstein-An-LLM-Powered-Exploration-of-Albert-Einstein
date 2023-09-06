@@ -41,6 +41,8 @@ website: [mhamidasn.github.io](https://mhamidasn.github.io/)\
 linkedin: [linkedin.com/in/mhamidasn](https://www.linkedin.com/in/mhamidasn/)\
 github: [github.com/mhamidasn](https://github.com/mhamidasn)
 
+[**Check my other project here!**](https://mhamidasn.github.io/portfolio/)
+
 <p align="center">
   <strong>🌌Here's to pushing boundaries, unraveling mysteries, and creating a future woven with the threads of innovation🌌</strong>
 </p>
